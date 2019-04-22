@@ -1,8 +1,8 @@
-#About Me
+# About Me
 
-###Introduction
+### Introduction
 "Hi, I am Jensen."
-###My Hobbies
+### My Hobbies
 -boardgame
  -e.g Through The Ages (favourite)
  -e.g Splendor
