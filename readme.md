@@ -11,4 +11,4 @@ Hi, I am Jensen.
 - Philosophy
 - And NO CS stuff
 Here is the screenshot
-![screen](screenshot.png)
+![](screenshot.png)
