@@ -11,4 +11,4 @@ Hi, I am Jensen.
 - Philosophy
 - And NO CS stuff
 Here is the screenshot
-![alt text](screenshot/png)
+![alt text](screenshot/PNG)
